@@ -1,6 +1,5 @@
 import sys
 from antlr4 import *
-from antlr4.tree.Tree import Tree # make lisp stype tree
 import tinycParser
 import tinycLexer
 import tinycListener
